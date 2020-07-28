@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06435e4f-9bea-4748-9fcb-9d75b152fcd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/templates/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/templates/store.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +80,7 @@
       <workItem from="1595593404161" duration="45000" />
       <workItem from="1595856856447" duration="313000" />
       <workItem from="1595857198781" duration="7337000" />
-      <workItem from="1595939147022" duration="7543000" />
+      <workItem from="1595939147022" duration="7755000" />
     </task>
     <servers />
   </component>
