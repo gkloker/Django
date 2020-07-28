@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06435e4f-9bea-4748-9fcb-9d75b152fcd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ejGKMEtzAxqv7vNQl0Dc5oUl1G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Proyect_1/Proyect_1/templates/header" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06435e4f-9bea-4748-9fcb-9d75b152fcd7" name="Default Changelist" comment="" />
+      <created>1594827523320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594827523320</updated>
+      <workItem from="1594827530270" duration="110000" />
+      <workItem from="1594827649312" duration="1122000" />
+      <workItem from="1594832090522" duration="5289000" />
+      <workItem from="1594916935709" duration="6677000" />
+      <workItem from="1594988275391" duration="3147000" />
+      <workItem from="1595005807151" duration="851000" />
+      <workItem from="1595020660059" duration="107000" />
+      <workItem from="1595247897379" duration="360000" />
+      <workItem from="1595333282378" duration="99000" />
+      <workItem from="1595334907157" duration="444000" />
+      <workItem from="1595435671966" duration="20000" />
+      <workItem from="1595435697550" duration="1000" />
+      <workItem from="1595593404161" duration="45000" />
+      <workItem from="1595856856447" duration="313000" />
+      <workItem from="1595857198781" duration="7337000" />
+      <workItem from="1595939147022" duration="5086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="129" key="#Inspections" timestamp="1594995405753">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="354" y="129" key="#Inspections/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594995405753" />
+    <state x="603" y="314" key="#Notifications" timestamp="1594995378063">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="603" y="314" key="#Notifications/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594995378063" />
+    <state x="320" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594998405470">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="320" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594998405470" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1594998444931">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594998444931" />
+    <state x="221" y="83" key="SettingsEditor" timestamp="1595435689806">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="221" y="83" key="SettingsEditor/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1595435689806" />
+    <state x="421" y="33" width="598" height="822" key="find.popup" timestamp="1594996370152">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="421" y="33" width="598" height="822" key="find.popup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594996370152" />
+  </component>
+</project>
