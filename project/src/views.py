@@ -1,26 +1,30 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-from django.shortcuts import render, HttpResponse
+from django.shortcuts import render
 
 # Create your views here.
 
 def home(request):
 
-    return HttpResponse("home")
+    return render(request, "home.html")
 
 
 def services(request):
-    return HttpResponse("services")
+
+    return render(request, "services.html")
 
 
 def store(request):
-    return HttpResponse("store")
+
+    return render(request, "store.html")
 
 
 def blog(request):
-    return HttpResponse("blog")
+
+    return render(request, "blog.html")
 
 
 def contact(request):
-    return HttpResponse("contact")
+
+    return render(request, "contact.html")
