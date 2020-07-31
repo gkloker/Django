@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block content %}
+    {% for services in services %}
+        <div>
+            <h2 style="color: white">{{ services.title }}</h2>
+            <p style="color: white">{{ services.content }}</p>
+            <img src="{{ services.image.url }}" alt="">
+        </div>
+    {% endfor %}
+{% endblock %}

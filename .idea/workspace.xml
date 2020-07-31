@@ -20,8 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06435e4f-9bea-4748-9fcb-9d75b152fcd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/media/services/Screen_Shot_2020-04-21_at_13.13.10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/media/services/Screen_Shot_2020-07-24_at_10.02.39_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/services/templates/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/services/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/services/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/services/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/services/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/templates/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -52,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/services/templates" />
       <recent name="$PROJECT_DIR$/project/src/static/src" />
       <recent name="$PROJECT_DIR$/Proyect_1/Proyect_1/templates/header" />
     </key>
@@ -81,7 +99,9 @@
       <workItem from="1595593404161" duration="45000" />
       <workItem from="1595856856447" duration="313000" />
       <workItem from="1595857198781" duration="7337000" />
-      <workItem from="1595939147022" duration="10496000" />
+      <workItem from="1595939147022" duration="10814000" />
+      <workItem from="1596025591351" duration="7107000" />
+      <workItem from="1596112312837" duration="249000" />
     </task>
     <servers />
   </component>
@@ -98,6 +118,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="129" key="#Inspections" timestamp="1594995405753">

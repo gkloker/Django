@@ -18,5 +18,6 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url('servicios/', include('services.urls')),
     url('', include('src.urls')), #enlace con las urls del proyecto (src)
 ]
