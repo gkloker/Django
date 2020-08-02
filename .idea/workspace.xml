@@ -19,23 +19,27 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06435e4f-9bea-4748-9fcb-9d75b152fcd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/media/services/Screen_Shot_2020-04-21_at_13.13.10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/media/services/Screen_Shot_2020-07-24_at_10.02.39_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/services/templates/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/services/urls.py" afterDir="false" />
+    <list default="true" id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/migrations/0002_auto_20200802_1949.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/templates/careers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/careers/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/services/migrations/0002_auto_20200802_1934.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/static/src/css/careers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/services/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/services/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/services/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/templates/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/templates/blog.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/views.py" afterDir="false" />
     </list>
@@ -47,7 +51,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ejGKMEtzAxqv7vNQl0Dc5oUl1G" />
+  <component name="ProjectId" id="1fYdprtd3Txmy1enK934qmnzsKe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -57,21 +61,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/project/services/templates" />
-      <recent name="$PROJECT_DIR$/project/src/static/src" />
-      <recent name="$PROJECT_DIR$/Proyect_1/Proyect_1/templates/header" />
+      <recent name="$PROJECT_DIR$/project/src/static/src/css" />
+      <recent name="$PROJECT_DIR$/project/careers/templates" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -79,29 +79,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="06435e4f-9bea-4748-9fcb-9d75b152fcd7" name="Default Changelist" comment="" />
-      <created>1594827523320</created>
+      <changelist id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="" />
+      <created>1596399146101</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594827523320</updated>
-      <workItem from="1594827530270" duration="110000" />
-      <workItem from="1594827649312" duration="1122000" />
-      <workItem from="1594832090522" duration="5289000" />
-      <workItem from="1594916935709" duration="6677000" />
-      <workItem from="1594988275391" duration="3147000" />
-      <workItem from="1595005807151" duration="851000" />
-      <workItem from="1595020660059" duration="107000" />
-      <workItem from="1595247897379" duration="360000" />
-      <workItem from="1595333282378" duration="99000" />
-      <workItem from="1595334907157" duration="444000" />
-      <workItem from="1595435671966" duration="20000" />
-      <workItem from="1595435697550" duration="1000" />
-      <workItem from="1595593404161" duration="45000" />
-      <workItem from="1595856856447" duration="313000" />
-      <workItem from="1595857198781" duration="7337000" />
-      <workItem from="1595939147022" duration="10814000" />
-      <workItem from="1596025591351" duration="7107000" />
-      <workItem from="1596112312837" duration="249000" />
+      <updated>1596399146101</updated>
+      <workItem from="1596399150678" duration="256000" />
+      <workItem from="1596402955677" duration="1960000" />
     </task>
     <servers />
   </component>
@@ -121,29 +105,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="354" y="129" key="#Inspections" timestamp="1594995405753">
+    <state x="555" y="306" key="#Other_File_Types" timestamp="1596394384522">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
-    <state x="354" y="129" key="#Inspections/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594995405753" />
-    <state x="603" y="314" key="#Notifications" timestamp="1594995378063">
-      <screen x="0" y="23" width="1440" height="842" />
-    </state>
-    <state x="603" y="314" key="#Notifications/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594995378063" />
-    <state x="320" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594998405470">
-      <screen x="0" y="23" width="1440" height="842" />
-    </state>
-    <state x="320" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594998405470" />
-    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1594998444931">
-      <screen x="0" y="23" width="1440" height="842" />
-    </state>
-    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594998444931" />
-    <state x="221" y="83" key="SettingsEditor" timestamp="1595435689806">
-      <screen x="0" y="23" width="1440" height="842" />
-    </state>
-    <state x="221" y="83" key="SettingsEditor/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1595435689806" />
-    <state x="421" y="33" width="598" height="822" key="find.popup" timestamp="1594996370152">
-      <screen x="0" y="23" width="1440" height="842" />
-    </state>
-    <state x="421" y="33" width="598" height="822" key="find.popup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1594996370152" />
+    <state x="555" y="306" key="#Other_File_Types/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596394384522" />
   </component>
 </project>

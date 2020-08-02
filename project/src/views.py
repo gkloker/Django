@@ -15,11 +15,6 @@ def store(request):
     return render(request, "store.html")
 
 
-def blog(request):
-
-    return render(request, "blog.html")
-
-
 def contact(request):
 
     return render(request, "contact.html")

@@ -15,15 +15,10 @@
 
     <!-- Styles -->
     <link href="{% static 'src/css/gestion.css' %}" rel="stylesheet">
+    <link href="{% static 'src/css/careers.css' %}" rel="stylesheet">
 </head>
 
 <body>
-
-    <h1 class="site-heading text-center text-white d-none d-lg-block">
-
-        <span class="site-heading-lower">Gestión de Pedidos</span>
-      </h1>
-
 
  <!-- Navbar -->
  <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
@@ -43,13 +38,12 @@
           <li class="nav-item {% if request.path == '/tienda' %} active {% endif %} px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="{% url 'Store' %}">Tienda</a>
           </li>
+          <li class="nav-item {% if request.path == '/career' %} active {% endif %} px-lg-4">
+            <a class="nav-link text-uppercase text-expanded" href="{% url 'Careers' %}">Career</a>
+          </li>
           <li class="nav-item {% if request.path == '/contacto' %} active {% endif %} px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="{% url 'Contact' %}">Contacto</a>
           </li>
-          <li class="nav-item {% if request.path == '/blog' %} active {% endif %} px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="{% url 'Blog' %}">Blog</a>
-          </li>
-
         </ul>
       </div>
     </div>
