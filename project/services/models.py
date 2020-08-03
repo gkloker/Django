@@ -12,10 +12,12 @@ class Services(models.Model):
     created = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now_add=True)
 
+    # especificamos el nombre que va a tener el servicio en la base de datos
     class Meta:
         verbose_name = 'services'
         verbose_name_plural = 'services'
 
+    # devuelve el titulo del servicio
     def __str__(self):
 
         return self.title
