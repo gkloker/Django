@@ -5,7 +5,6 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     url('home', views.home, name="Home"),
-    url('contacto', views.contact, name="Contact"),
 ]
 
 # permite visualizar la imagen que cargamos desde el panel de administracion

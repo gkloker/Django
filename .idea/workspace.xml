@@ -20,17 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/careers/migrations/0003_auto_20200803_1535.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/migrations/0004_auto_20200803_1537.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/services/static/css/service.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/careers/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/careers/static/css/careers.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/static/css/careers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/careers/templates/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/templates/careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/services/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/services/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/static/src/css/gestion.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/static/src/css/gestion.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/templates/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <updated>1596399146101</updated>
       <workItem from="1596399150678" duration="256000" />
       <workItem from="1596402955677" duration="2036000" />
-      <workItem from="1596456743706" duration="13968000" />
+      <workItem from="1596456743706" duration="19150000" />
     </task>
     <servers />
   </component>

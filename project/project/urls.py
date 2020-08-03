@@ -19,6 +19,6 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url('', include('src.urls')), #enlace con las urls del proyecto (src)
-    url('services/', include('services.urls')),
-    url('careers/', include('careers.urls')),
+    url('services', include('services.urls')),
+    url('careers', include('careers.urls')),
 ]
