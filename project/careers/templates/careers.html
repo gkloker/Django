@@ -6,7 +6,7 @@
 {% endblock %}
 
 {% block content %}
-
+    {% include 'title.html' %}
     {% for career in careers %}
         <div class="container bg-white mt-5 mb-5 p-3 rounded">
             <h1>{{ career.title }}</h1>

@@ -20,15 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/careers/templates/title.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/careers/templates/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/templates/careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/services/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/templates/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/static/src/css/gestion.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/static/src/css/gestion.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/templates/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/careers/templates" />
+      <recent name="$PROJECT_DIR$/project/services/templates" />
+      <recent name="$PROJECT_DIR$/project/src/templates" />
       <recent name="$PROJECT_DIR$/project/careers/static/css" />
       <recent name="$PROJECT_DIR$/project/src/static/src/css" />
-      <recent name="$PROJECT_DIR$/project/careers/static/careers" />
-      <recent name="$PROJECT_DIR$/project/careers/templates" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -75,7 +70,7 @@
       <updated>1596399146101</updated>
       <workItem from="1596399150678" duration="256000" />
       <workItem from="1596402955677" duration="2036000" />
-      <workItem from="1596456743706" duration="19150000" />
+      <workItem from="1596456743706" duration="23859000" />
     </task>
     <servers />
   </component>
@@ -99,5 +94,9 @@
       <screen x="0" y="23" width="1440" height="842" />
     </state>
     <state x="555" y="306" key="#Other_File_Types/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596457203628" />
+    <state x="420" y="199" width="600" height="490" key="find.popup" timestamp="1596480558570">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="420" y="199" width="600" height="490" key="find.popup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596480558570" />
   </component>
 </project>
