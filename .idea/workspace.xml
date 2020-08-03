@@ -20,28 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/migrations/0002_auto_20200802_1949.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/templates/careers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/careers/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/services/migrations/0002_auto_20200802_1934.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/static/src/css/careers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/careers/templates/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/templates/careers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/static/src/css/careers.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/static/src/css/careers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/templates/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +53,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/project/src/static/src/css" />
+      <recent name="$PROJECT_DIR$/project/careers/static/careers" />
       <recent name="$PROJECT_DIR$/project/careers/templates" />
     </key>
   </component>
@@ -85,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1596399146101</updated>
       <workItem from="1596399150678" duration="256000" />
-      <workItem from="1596402955677" duration="1960000" />
+      <workItem from="1596402955677" duration="2036000" />
+      <workItem from="1596456743706" duration="2903000" />
     </task>
     <servers />
   </component>
@@ -105,9 +89,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="306" key="#Other_File_Types" timestamp="1596394384522">
+    <state x="555" y="306" key="#Other_File_Types" timestamp="1596457203628">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
-    <state x="555" y="306" key="#Other_File_Types/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596394384522" />
+    <state x="555" y="306" key="#Other_File_Types/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596457203628" />
   </component>
 </project>
