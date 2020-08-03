@@ -6,5 +6,11 @@
 {% endblock %}
 
 {% block content %}
-    <h1 class="titulo">hola mundo!</h1>
+
+    {% for career in careers %}
+        <div class="container bg-white mt-5 mb-5 p-3 rounded">
+            <h1>{{ career.title }}</h1>
+            <p>{{ career.description | safe }}</p>
+        </div>
+    {% endfor %}
 {% endblock %}

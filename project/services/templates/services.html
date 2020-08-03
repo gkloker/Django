@@ -1,13 +1,27 @@
 {% extends "base.html" %}
 
 {% load static %}
+{% block head %}
+    <link href="{% static 'css/service.css' %}" rel="stylesheet">
+{% endblock %}
 
 {% block content %}
-    {% for services in services %}
-        <div>
-            <h2 style="color: white">{{ services.title }}</h2>
-            <p style="color: white">{{ services.content }}</p>
-            <img src="{{ services.image.url }}" alt="">
-        </div>
+    {% for service in services %}
+        <div class="container">
+        <div class="row mb-2">
+            <div class="col-md-6">
+              <div class="row no-gutters border rounded overflow-hidden flex-md-row m-4 shadow-sm h-md-250 position-relative">
+                <div class="col p-4 d-flex flex-column position-static bg-white">
+                  <strong class="d-inline-block mb-2 ">{{ service.title }}</strong>
+                  <p class="card-text mb-auto overflow-auto">{{ service.description | safe }}</p>
+                  <a href="#" class="stretched-link">Continue reading</a>
+                </div>
+                <div class="col-auto d-none d-lg-block">
+                    <img src="{{ service.image.url }}" alt="" width="200" height="250">
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>
     {% endfor %}
 {% endblock %}
