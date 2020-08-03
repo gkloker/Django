@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/about/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/about/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/careers/templates/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/templates/careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/services/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/static/src/css/careers.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/static/css/careers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/careers/static/css" />
       <recent name="$PROJECT_DIR$/project/src/static/src/css" />
       <recent name="$PROJECT_DIR$/project/careers/static/careers" />
       <recent name="$PROJECT_DIR$/project/careers/templates" />
@@ -73,7 +70,7 @@
       <updated>1596399146101</updated>
       <workItem from="1596399150678" duration="256000" />
       <workItem from="1596402955677" duration="2036000" />
-      <workItem from="1596456743706" duration="5881000" />
+      <workItem from="1596456743706" duration="7230000" />
     </task>
     <servers />
   </component>

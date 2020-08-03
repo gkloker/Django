@@ -2,6 +2,7 @@
 
 <head>
 
+    {# carga el contenido de la carpeta static #}
     {% load static %}
 
     <!-- Bootstrap -->
@@ -15,7 +16,10 @@
 
     <!-- Styles -->
     <link href="{% static 'src/css/gestion.css' %}" rel="stylesheet">
-    <link href="{% static 'src/css/careers.css' %}" rel="stylesheet">
+
+    {% block head %}
+
+    {% endblock %}
 </head>
 
 <body>
