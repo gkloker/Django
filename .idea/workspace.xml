@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/careers/templates/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/templates/careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/careers/templates/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/careers/templates/title_careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/services/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/services/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/static/src/css/gestion.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/static/src/css/gestion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/static/src/img/bg_main.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/static/src/img/bg_main.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/static/src/img/principal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/static/src/img/principal.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/home.html" afterDir="false" />
     </list>
@@ -77,7 +77,7 @@
       <workItem from="1596402955677" duration="2036000" />
       <workItem from="1596456743706" duration="24592000" />
       <workItem from="1596491391566" duration="690000" />
-      <workItem from="1596543035515" duration="6157000" />
+      <workItem from="1596543035515" duration="16853000" />
     </task>
     <servers />
   </component>
@@ -105,13 +105,13 @@
       <screen x="0" y="23" width="1440" height="842" />
     </state>
     <state x="221" y="83" key="SettingsEditor/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596491482515" />
-    <state x="420" y="199" width="600" height="490" key="find.popup" timestamp="1596553044506">
+    <state x="420" y="199" width="600" height="490" key="find.popup" timestamp="1596569703023">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
-    <state x="420" y="199" width="600" height="490" key="find.popup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596553044506" />
-    <state x="383" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1596553048234">
+    <state x="420" y="199" width="600" height="490" key="find.popup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596569703023" />
+    <state x="383" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1596569705639">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
-    <state x="383" y="186" width="672" height="678" key="search.everywhere.popup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596553048234" />
+    <state x="383" y="186" width="672" height="678" key="search.everywhere.popup/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596569705639" />
   </component>
 </project>

@@ -63,7 +63,7 @@ p {
 
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 100;
 }
 
@@ -81,7 +81,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(24, 64, 8);
+  background: #f89c1c;
   font-family: 'Raleway';
 }
 
@@ -90,13 +90,11 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: rgba(255, 255, 255, 0.7);
-  font-weight: 800;
+  color: black;
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
   color: #ffffff;
-  text-decoration: underline;
 }
 
 @media (min-width: 992px) {
@@ -105,11 +103,9 @@ p {
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
     color: rgba(255, 255, 255, 0.4);
-    text-decoration: underline;
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
     color: #ffffff;
-    text-decoration: underline;
   }
 }
 
@@ -135,8 +131,8 @@ p {
     left: 600;
     width: 60%;
     margin-top: 3rem;
-    background-color: rgba(24, 64, 8);
-    color: cornsilk;
+    background-color: #fafafa;
+    color: black;
     position: absolute;
   }
   .intro .intro-text .intro-button {
@@ -156,15 +152,15 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgb(242, 245, 240);
+  background: #712e74;
 }
 
 .cta .cta-inner {
   position: relative;
   padding: 3rem;
   margin: 0.5rem;
-  background-color: rgba(24, 64, 8);
-  color: cornsilk;
+  background-color: #006689;
+  color: white;
 }
 
 .cta .cta-inner:before {
@@ -230,7 +226,7 @@ p {
 }
 
 .footer {
-   background-color: rgba(24, 64, 8, 0.8);
+   background: black;
 }
 
 
