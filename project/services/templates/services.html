@@ -1,9 +1,11 @@
 {% extends "base.html" %}
 
 {% load static %}
-{% block head %}
+{% block css %}
     <link href="{% static 'css/service.css' %}" rel="stylesheet">
 {% endblock %}
+
+{% block title %} Services {% endblock %}
 
 {% block content %}
     {% for service in services %}

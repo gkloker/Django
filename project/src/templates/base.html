@@ -17,9 +17,10 @@
     <!-- Styles -->
     <link href="{% static 'src/css/gestion.css' %}" rel="stylesheet">
 
-    {% block head %}
-
+    {% block css %}
     {% endblock %}
+
+    <title>{% block title %}{% endblock %}</title>
 </head>
 
 <body>
@@ -48,7 +49,6 @@
 
     <!--  Contenido cambiante  -->
     {% block content %}
-
     {% endblock %}
 
     <!-- Footer -->

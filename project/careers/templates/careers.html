@@ -1,12 +1,14 @@
 {% extends "base.html" %}
 
 {% load static %}
-{% block head %}
+{% block css %}
     <link href="{% static 'css/careers.css' %}" rel="stylesheet">
 {% endblock %}
 
+{% block title %} Careers {% endblock %}
+
 {% block content %}
-    {% include 'title.html' %}
+    {% include 'title_careers.html' %}
     {% for career in careers %}
         <div class="container bg-white mt-5 mb-5 p-3 rounded">
             <h1>{{ career.title }}</h1>
