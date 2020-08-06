@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a24aa0f-bdc0-45b2-b31c-fa0cc321eb80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/templates/base.html" afterDir="false" />
     </list>
@@ -47,7 +48,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -73,7 +74,10 @@
       <workItem from="1596456743706" duration="24592000" />
       <workItem from="1596491391566" duration="690000" />
       <workItem from="1596543035515" duration="16853000" />
-      <workItem from="1596629730448" duration="6858000" />
+      <workItem from="1596629730448" duration="7457000" />
+      <workItem from="1596659400498" duration="588000" />
+      <workItem from="1596715876415" duration="1029000" />
+      <workItem from="1596724481323" duration="400000" />
     </task>
     <servers />
   </component>
@@ -93,18 +97,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="306" key="#Other_File_Types" timestamp="1596457203628">
+    <state x="555" y="306" key="#Other_File_Types" timestamp="1596724698542">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
-    <state x="555" y="306" key="#Other_File_Types/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596457203628" />
+    <state x="555" y="306" key="#Other_File_Types/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596724698542" />
     <state x="451" y="253" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596639158393">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
     <state x="451" y="253" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596639158393" />
-    <state x="221" y="83" key="SettingsEditor" timestamp="1596491482515">
+    <state x="221" y="83" key="SettingsEditor" timestamp="1596724882305">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
-    <state x="221" y="83" key="SettingsEditor/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596491482515" />
+    <state x="221" y="83" key="SettingsEditor/0.23.1440.842/-1920.0.1920.1080@0.23.1440.842" timestamp="1596724882305" />
     <state x="420" y="199" width="600" height="490" key="find.popup" timestamp="1596569703023">
       <screen x="0" y="23" width="1440" height="842" />
     </state>
